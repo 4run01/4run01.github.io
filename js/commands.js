@@ -1,6 +1,6 @@
 var telegram = "https://t.me/Arun46";
 var snapchat = "https://www.snapchat.com/add/arunrossi01";
-var password = "sudoru";
+var password = "sudoroot";
 var whatsapp = "https://wa.me/qr/J22WSWDMX4W5L1";
 var instagram = "https://www.instagram.com/black_swagger46/";
 var github = "https://github.com/4run01";
