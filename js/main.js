@@ -92,8 +92,8 @@ function commander(cmd) {
             addLine("Opening YouTube...", "color2", 80);
             newTab(youtube);
             break;
-        case "sudo":
-            addLine("Oh no, you're not admin...", "color2", 80);
+        case "music":
+            addLine("enjoy the trance", "color2", 80);
             setTimeout(function() {
                 window.open('https://youtu.be/73mWtfA7jk0');
             }, 1000);
