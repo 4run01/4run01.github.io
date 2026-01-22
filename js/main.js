@@ -91,7 +91,7 @@ function commander(cmd) {
         case "video":
             addLine("Opening YouTube...", "color2", 80);
             setTimeout(function() {
-                window.open('https://youtube.com/@leemasdiary?si=FEZf4jr46JvoI6dx');
+                window.open('https://youtu.be/q8bP3DW8EpY?si=3CHv3YxR15XQUdaj');
             }, 1000);
             break;
         case "music":
