@@ -91,13 +91,13 @@ function commander(cmd) {
         case "video":
             addLine("Opening YouTube...", "color2", 80);
             setTimeout(function() {
-                window.open('https://youtu.be/q8bP3DW8EpY?si=3CHv3YxR15XQUdaj');
+                window.open('https://youtube/q8bP3DW8EpY?si=3CHv3YxR15XQUdaj');
             }, 1000);
             break;
         case "music":
             addLine("enjoy the trance", "color2", 80);
             setTimeout(function() {
-                window.open('https://youtu.be/73mWtfA7jk0');
+                window.open('https://youtube/73mWtfA7jk0');
             }, 1000);
             break;
         case "social":
