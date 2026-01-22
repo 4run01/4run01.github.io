@@ -90,7 +90,9 @@ function commander(cmd) {
             break;
         case "video":
             addLine("Opening YouTube...", "color2", 80);
-            newTab(youtube);
+            setTimeout(function() {
+                window.open('https://youtube.com/shorts/EEPoZ4flHqw?si=MkJaIBK85p3VaUou');
+            }, 1000);
             break;
         case "music":
             addLine("enjoy the trance", "color2", 80);
